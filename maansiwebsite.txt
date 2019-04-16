@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>m a a n s i</title>
+
 </head>
  
 <h1><center>m a a n s i</center></h1>
@@ -46,12 +47,12 @@ body {
   background-color: #ffcccc; /* ART */
   border: none;
   color: white;
-  padding: 15px 37px;
+  padding: 15px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
-  margin: 30px 50px;
+  margin: 10px 10px;
   cursor: pointer;
 }
 .button:hover {
@@ -111,12 +112,12 @@ color: #ffffff;
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 14px;
-  font-size: 42px;
-  width: 50px;
+  padding: 15px;
+  font-size: 35px;
+  width: 60px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 5px;
+  margin: 6px 6px;
 }
 
 .fa:hover {
@@ -143,12 +144,94 @@ color: #ffffff;
 <body>
 
 
-<a href="#" class="fa fa-youtube"></a>
-<a href="#" class="fa fa-instagram"></a>
-<a href="#" class="fa fa-pinterest"></a>
+<a href="https://www.youtube.com/channel/UCMw6-trQhWF4Rw-ZqQ-Zgpg/featured" target="_blank"class="fa fa-youtube"></a>
+<a href="https://www.instagram.com/byminniemaan/" target="_blank"class="fa fa-instagram"></a>
+<a href="https://www.pinterest.com/byminniemaan/" target="_blank"class="fa fa-pinterest"></a>
+
+</body>
+
+<img src="mhm.png" style="width:1327px;height:630px;">
+<head>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  font-family: times new roman;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-img {
+  /* The image used */
+  background-image: url("bannerrerer.png");
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Add styles to the form container */
+.container {
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: #ffcccc;
+font-size: 8px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+</style>
+</head>
+<body>
+
+<div class="bg-img">
+  <form action="/action_page.php" class="container">
+    <h1>Sign up for freebies and news!</h1>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <button type="submit" class="btn">Join</button>
+  </form>
+</div>
+
 
 </body>
 
 </html>
-
-

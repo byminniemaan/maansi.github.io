@@ -1,0 +1,154 @@
+<html>
+<head>
+<title>m a a n s i</title>
+</head>
+ 
+<h1><center>m a a n s i</center></h1>
+<head>
+<style>
+body {background-color: white;}
+h1   {color: white;}
+h1 { 
+  display: block;
+  font-size: 4.1em;
+  margin-top: 0.002em;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+</style>
+</head>
+
+<html>
+<head>
+
+<style>
+body {
+    background-color:#ffe6e6 
+}
+</style> 
+</head>
+</html>
+
+<h1 align="center|justify">
+
+<html>
+<head>
+<style>
+.btn:hover {
+  color: #9555af;
+  border-color: currentColor;
+  background-color: white;
+}
+.button {
+  background-color: #ffcccc; /* ART */
+  border: none;
+  color: white;
+  padding: 15px 37px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 30px 50px;
+  cursor: pointer;
+}
+.button:hover {
+  color: #ffcccc;
+  border-color: #ffffff;
+  background-color: #ffffff;
+}
+
+.button2 {background-color: #ffcccc;} /* MONTHLY FAVORITES*/
+.button3 {background-color: #ffcccc;} /* ALL ABOUT MAANSI*/ 
+.button4 {background-color: #ffcccc;} /* FREEBIES*/ 
+.button5 {background-color: #ffcccc;} /* SHOP*/
+</style>
+</head>
+<body>
+
+<button class="button">
+<style>
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ffcccc;
+color: #ffffff;
+  min-width: 160px;
+  padding: 15px 17px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  position: absolute;
+  background-color: #ffcccc;
+  min-width: 160px;
+  padding: 0px 0px;
+}
+</style>
+
+<div class="dropdown">
+  <span>ART</span>
+<div class="dropdown-content">
+
+  </div>
+</div>
+</button>
+<button class="button button2">MONTHLY FAVORITES</button>
+<button class="button button3">ALL ABOUT MAANSI</button>
+<button class="button button4">FREEBIES</button>
+<button class="button button5">SHOP</button>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 14px;
+  font-size: 42px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+}
+
+.fa:hover {
+    opacity: 0.6;
+}
+
+
+.fa-youtube {
+  background: #ffffff;
+  color: #ffcccc;
+}
+
+.fa-instagram {
+  background: #ffffff;
+  color: #ffcccc;
+}
+
+.fa-pinterest {
+  background: #ffffff;
+  color: #ffcccc;
+}
+</style>
+</head>
+<body>
+
+
+<a href="#" class="fa fa-youtube"></a>
+<a href="#" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-pinterest"></a>
+
+</body>
+
+</html>
+
+
